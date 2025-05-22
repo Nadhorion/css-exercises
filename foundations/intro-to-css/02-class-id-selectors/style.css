@@ -2,3 +2,22 @@
     background-color: rgb(243, 144, 137);
     font-family: Verdana, "Deja-vu Sans", sans-serif;
 }
+
+.font-size-twenty-four {
+    font-size: 24px;
+}
+
+#second-element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+/* #third-element {
+} */
+
+#fourth-element {
+    background-color: rgb(153, 226, 138);
+    font-size: 24px;
+    font-weight: bold;
+}
+
