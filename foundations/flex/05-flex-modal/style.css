@@ -23,16 +23,27 @@ body {
 
   padding: 20px;
   display: flex;
+  gap: 20px;
 }
 
 .header-x {
   display: flex;
+  align-items: center;
   justify-content: space-between;
-}
-
-header {
   
 }
+
+.header {
+  font-size: large;
+  font-weight: bold;
+}
+
+.info-action {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 
 .icon {
   color: royalblue;
