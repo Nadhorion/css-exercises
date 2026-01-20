@@ -37,6 +37,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
+  align-items: stretch;
 }
 
 .card {
@@ -45,5 +46,5 @@ body {
   border-radius: 4px;
 
   width: 300px;
-  height: 300px;
+  
 }
