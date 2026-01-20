@@ -38,10 +38,14 @@ body {
   font-weight: bold;
 }
 
-.info-action {
+/* .info-action {
   display: flex;
   flex-direction: column;
   gap: 10px;
+} */
+ 
+.text {
+  margin-bottom: 16px;
 }
 
 
