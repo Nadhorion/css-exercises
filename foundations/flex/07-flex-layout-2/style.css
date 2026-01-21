@@ -67,11 +67,12 @@ li {
 
 .cards {
 
-  flex: 1;
+  /* I am unsure why I used flex: 1 (and flex: none in .card)
+  but after reviewing the solutions, they are unnecessary */
+  /* flex: 1; */
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
-  align-items: stretch;
   gap: 24px;
 }
 
@@ -81,7 +82,7 @@ li {
   border-radius: 4px;
 
   width: 300px;
-  flex: none;
+  /* flex: none; */
   padding: 16px;
   
 }
